@@ -1,6 +1,6 @@
 # Vue Ejercicio Leaflet
 
-Primeros pasos con Vue.js. Ejercicios que incorpora calendario interactivo.
+Primeros pasos con Vue.js. Ejercicio que incorpora calendario interactivo.
 
 ## Project setup
 ```
